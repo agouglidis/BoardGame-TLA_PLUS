@@ -1,5 +1,5 @@
 # BoardGame-TLA_PLUS
- Solution to a puzzle game using TLA+
+ Solution to a puzzle game using PlusCal/TLA+
 
 The rules of the puzzle is to fill in a 5x5 matrix with consecutive numbers from 1 to 25. You can start from any cell in the matrix by placing number 1. Every next cell is selected by:                       
 
