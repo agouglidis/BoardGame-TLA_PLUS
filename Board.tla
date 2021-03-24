@@ -10,7 +10,7 @@
 (*   diagonally up left or diagonally down right or diagonally down left   *)
 (*                                                                         *)
 (* When the 5x5 problem is solved symmetric solutions can be combined t    *)
-(* solve larger problems e.g. 10x10                                        *)
+(* solve bigger problems e.g. 10x10                                        *)
 (***************************************************************************)
 
 
@@ -244,5 +244,5 @@ Termination == <>(pc = "Done")
  
 =============================================================================
 \* Modification History
-\* Last modified Wed Mar 24 21:54:40 GMT 2021 by agouglidis
+\* Last modified Wed Mar 24 21:57:16 GMT 2021 by agouglidis
 \* Created Tue Mar 23 17:29:45 GMT 2021 by agouglidis
