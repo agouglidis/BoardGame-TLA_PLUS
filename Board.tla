@@ -58,7 +58,7 @@ START:
     (* Insert the coordinates of the cell in the set of visited cells *)
     visited := visited \union {<<x, y>>};
     
-    (* Append the current cell in the sequence *)
+    (* Append the current cell coordinates in the sequence *)
     solution := solution \o (<<x, y>>);
     
 (* This is the every next step label *)    
